@@ -2,7 +2,6 @@ const quotes = [
   "Every night I fall asleep dreaming of you, and every morning I wake up thinking of you.",
   "As the stars twinkle in the night sky, my heart twinkles with thoughts of you.",
   "The moon is beautiful tonight, but not as beautiful as you.",
-  "Distance may separate our bodies, but never our hearts. Good night.",
   "Like the stars that light up the dark sky, you light up my world.",
   "Sweet dreams, Mansi.",
   "The day is over, but my love for you never ends. Good night.",
