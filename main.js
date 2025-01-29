@@ -3,7 +3,7 @@ const quotes = [
   "As the stars twinkle in the night sky, my heart twinkles with thoughts of you.",
   "The moon is beautiful tonight, but not as beautiful as you.",
   "Like the stars that light up the dark sky, you light up my world.",
-  "Sweet dreams, Mansi.",
+  "Sweet dreams, Mansi",
   "The day is over, but my love for you never ends. Good night.",
   "As you drift off to sleep, know that you're the last thought on my mind.",
   "May your dreams be as sweet as you are. Good night.",
